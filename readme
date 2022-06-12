@@ -1,3 +1,7 @@
+// Datenbezug
 Daten sind für das Repository zu gross.
 Die Daten werden automatisch mittels WebApi von kaggle heruntergeladen und entzippt.
 https://www.kaggle.com/datasets/fanconic/skin-cancer-malignant-vs-benign 
+
+// Docker
+Image kann unter diesem Repsoitory gefunden werden "docker pull dechaste/skincancer_detection"
